@@ -2,7 +2,7 @@
 
 **Rinvex Categories** is a polymorphic Laravel package, for category management. You can categorize any eloquent model with ease, and utilize the power of **[Nested Sets](https://github.com/lazychaser/laravel-nestedset)**, and the awesomeness of **[Sluggable](https://github.com/spatie/laravel-sluggable)**, and **[Translatable](https://github.com/spatie/laravel-translatable)** models out of the box.
 
-⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/laravel-categories](https://github.com/rinvex/laravel-categories)** package instead. ⚠️
+⚠️ This package is **renamed** and now maintained at **[rinvex/laravel-categories](https://github.com/rinvex/laravel-categories)**, author suggests using the new package instead. Old package supportes up to Laravel v5.6, and the new one supports Laravel v5.7+
 
 [![Packagist](https://img.shields.io/packagist/v/rinvex/categories.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/categories)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/categories.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/categories/)
