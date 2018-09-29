@@ -84,6 +84,7 @@
             ]
         }
     },
+    "abandoned": "rinvex/laravel-categories",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
